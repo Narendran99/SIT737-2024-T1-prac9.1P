@@ -1,0 +1,19 @@
+{
+  "name": "sit737-2024-t1-prac4.2c",
+  "version": "1.0.0",
+  "description": "Calculator with additional arithmatic operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compose": "^0.1.2",
+    "docker": "^1.0.0",
+    "express": "^4.19.2",
+    "winston": "^3.13.0"
+  }
+}
